@@ -1,5 +1,12 @@
 # DZ60 layout for Dyon :D
 
+## Bootmagic Reset
+- Haal de stroom er af.
+- Houdt `SPACE` en `BACKSPACE` ingedrukt en sluit stroom weer aan.
+- ???
+- Bootmagic.
+
+## Getting started
 Pull the QMK repo.
 Pull repo to `keyboards/dz60`
 
