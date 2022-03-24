@@ -6,6 +6,13 @@
 - ???
 - Bootmagic.
 
+## Alt / GUI swap
+- Haal de stroom er af.
+- Houdt `SPACE` en `Left Alt` ingedrukt en sluit stroom weer aan.
+- ???
+- Bootmagic.
+(https://github.com/tmk/tmk_test/blob/master/README.md#boot-magic-configuration---virtual-dip-switch)
+
 ## Getting started
 Pull the QMK repo.
 Pull repo to `keyboards/dz60`
